@@ -1,4 +1,12 @@
 *
+!/*
+!/Res2/*
+!/Res2/CMakeProject1/*
+!/Res2/CMakeProject1/CMakeLists.txt
+!/Res2/CMakeProject1/CMakeProject1.cpp
+Res2/CMakePresets.json
+
+*
 .gitignore
 !/*
 !/Res1/main.cpp
