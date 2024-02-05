@@ -1,5 +1,5 @@
 *
 .gitignore
 !/*
-!/l1/main.cpp
-!/l1/CMakeLists.txt
+!/Res1/main.cpp
+!/Res1/CMakeLists.txt
