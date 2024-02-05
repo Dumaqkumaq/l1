@@ -6,7 +6,6 @@
 !/Res2/CMakeProject1/CMakeProject1.cpp
 Res2/CMakePresets.json
 
-*
 .gitignore
 !/*
 !/Res1/main.cpp
