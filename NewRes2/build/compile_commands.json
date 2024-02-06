@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/Users/Home/Documents/GitHub/l1/Res2/CMakeProject1/build",
+  "command": "C:\\PROGRA~2\\MICROS~2\\2022\\BUILDT~1\\VC\\Tools\\MSVC\\1437~1.328\\bin\\Hostx86\\x86\\cl.exe  /nologo /TP /DWIN32 /D_WINDOWS /W3 /GR /EHsc /MDd /Zi /Ob0 /Od /RTC1 -std:c++20 /FoCMakeFiles\\CMakeProject1.dir\\CMakeProject1.obj /FdTARGET_COMPILE_PDB /FS -c C:\\Users\\Home\\Documents\\GitHub\\l1\\Res2\\CMakeProject1\\CMakeProject1.cpp",
+  "file": "C:\\Users\\Home\\Documents\\GitHub\\l1\\Res2\\CMakeProject1\\CMakeProject1.cpp",
+  "output": "CMakeFiles\\CMakeProject1.dir\\CMakeProject1.obj"
+}
+]
