@@ -1,5 +1,5 @@
 # l1
 Делаем лабу 1  
   
-Dima -> Дима  
-Mark -> Марк
+Dima, Dimasik -> Дима  
+Mark, Markysik -> Марк
