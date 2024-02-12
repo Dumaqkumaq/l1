@@ -13,4 +13,4 @@ Res2/CMakePresets.json
 
 !/*
 !/NewRes2/*
-!/NewRes2/build/*
+!/NewRes2/build/**
